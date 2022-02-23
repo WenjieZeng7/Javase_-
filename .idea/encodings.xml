@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/App.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/bean/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/bean/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/bean/Lend.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/book/BookHandleViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/book/BookLendViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/book/BookViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/charts/PieChart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/lend/LendViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/user/UserChargeViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/user/UserHandleViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/user/UserSelectViewCtrl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-nodelibrary/nodelibrary/src/com/bjpowernode/module/user/UserViewCtrl.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
